@@ -12,7 +12,7 @@ import {
     Collapse
 } from "reactstrap"; 
 
-import ColorThief from "colorthief";
+//import ColorThief from "colorthief";
 
 import { Fade } from 'react-reveal';
 
@@ -22,8 +22,8 @@ const ExperienceCard = ({data}) => {
     const imgRef = createRef();
 
     function getColorArrays() {
-        const colorThief = new ColorThief();
-        setColorArrays(colorThief.getColor(imgRef.current));
+        // const colorThief = new ColorThief();
+         setColorArrays([4, 122, 195]);
     }
 
     function rgb(values) {

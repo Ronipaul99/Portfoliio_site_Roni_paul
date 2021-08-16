@@ -1,8 +1,6 @@
 import emoji from "react-easy-emoji";
 
 import googlelogo from "./assets/img/icons/common/infosys.png";
-import github from "./assets/img/icons/common/github.svg";
-import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
 	name: "Roni Paul",
@@ -10,7 +8,7 @@ export const greetings = {
 	description:`A self taught,passionate Full Stack Web Developer having an experience of 
 				building scalable Web applications with JavaScript / Reactjs / Angular / Nodejs / MongoDB  and some other 
 				cool libraries and frameworks and Cross Platform Web applications`,
-	resumeLink: "https://drive.google.com/file/d/16eScY2Q-0Q3PtRiV2aAo5tT4vRpA7oBT/view?usp=sharing",
+	resumeLink: "https://drive.google.com/file/d/1EQws-8MLVu-2W9PkptMHaA3h7Vhts49G/view?usp=sharing",
 };
 
 export const openSource = {
@@ -143,10 +141,9 @@ export const educationInfo = [
 		schoolName: "Narula Institute Of Technology",
 		subHeader: "Bachalor Of Technology in Information Technology",
 		duration: "August 2015 - July 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		desc: "Participated in Tech challange Held in collage on Tech Fest",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Completed My B.Tech on Information Technology with Aggregate of 8.23 CGPA",
 		],
 	},
 	// {

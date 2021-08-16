@@ -9,12 +9,12 @@ const EdutionCard = ({ education }) => {
 			<Card className="card-lift--hover shadow mt-4">
 				<CardBody>
 					<div className="d-flex px-3">
-						<div className="pl-4">
-							<h5 className="text-info">
+						<div className="pl-2">
+							<h5 className="text-info" >
 								{education.schoolName}
 							</h5>
 							<h6>{education.subHeader}</h6>
-							<Badge color="info" className="mr-1">
+							<Badge color="info" className="">
 								{education.duration}
 							</Badge>
 							<p className="description mt-3">{education.desc}</p>
