@@ -4823,24 +4823,24 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!*****************************************************************************************************************!*\
-  !*** external "D:\\developer-portfolio-master\\developer-portfolio-master\\node_modules\\react-dom\\server.js" ***!
-  \*****************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** external "C:\\Users\\USER\\OneDrive\\Desktop\\GIT_HUB\\Portfoliio_site\\node_modules\\react-dom\\server.js" ***!
+  \*******************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("D:\\developer-portfolio-master\\developer-portfolio-master\\node_modules\\react-dom\\server.js");
+module.exports = require("C:\\Users\\USER\\OneDrive\\Desktop\\GIT_HUB\\Portfoliio_site\\node_modules\\react-dom\\server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!************************************************************************************************************!*\
-  !*** external "D:\\developer-portfolio-master\\developer-portfolio-master\\node_modules\\react\\index.js" ***!
-  \************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** external "C:\\Users\\USER\\OneDrive\\Desktop\\GIT_HUB\\Portfoliio_site\\node_modules\\react\\index.js" ***!
+  \**************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("D:\\developer-portfolio-master\\developer-portfolio-master\\node_modules\\react\\index.js");
+module.exports = require("C:\\Users\\USER\\OneDrive\\Desktop\\GIT_HUB\\Portfoliio_site\\node_modules\\react\\index.js");
 
 /***/ })
 
